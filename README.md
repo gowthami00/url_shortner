@@ -21,4 +21,4 @@ streamlit run app.py
 ```
 
 ## Live Demo
-Add your deployed Streamlit link here
+https://urlshortner-wwqjqpgmwqxcxqsc2by5lt.streamlit.app/
