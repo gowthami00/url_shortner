@@ -1,6 +1,6 @@
 import streamlit as st
 import pyshorteners
-import pyperclip
+
 
 st.set_page_config(page_title="URL Shortener", page_icon="🔗", layout="centered")
 
